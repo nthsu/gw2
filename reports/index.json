@@ -1,0 +1,36 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260918-232715-3dlr",
+      "title": "Avocado Pineapple, Sister Less",
+      "commanders": [
+        "Avocado Pineapple",
+        "Sister Less"
+      ],
+      "guild": {
+        "id": "0C46B86F-40BD-F011-8467-122223FBD123",
+        "name": "Rez Build N Use",
+        "tag": "HitF"
+      },
+      "dateStart": "2026-09-19T04:27:15.000Z",
+      "dateEnd": "2026-09-19T06:33:40.242Z",
+      "dateLabel": "9/18/2026, 11:27:15 PM - 9/19/2026, 1:33:40 AM",
+      "url": "https://nthsu.github.io/gw2/?report=20260918-232715-3dlr",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 47
+      }
+    }
+  ]
+}
