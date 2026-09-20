@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260919-231634-1gyt",
+      "title": "Sister Less",
+      "commanders": [
+        "Sister Less"
+      ],
+      "guild": {
+        "id": "0C46B86F-40BD-F011-8467-122223FBD123",
+        "name": "Rez Build N Use",
+        "tag": "HitF"
+      },
+      "dateStart": "2026-09-20T04:16:34.000Z",
+      "dateEnd": "2026-09-20T05:26:01.930Z",
+      "dateLabel": "9/19/2026, 11:16:34 PM - 9/20/2026, 12:26:01 AM",
+      "url": "https://nthsu.github.io/gw2/?report=20260919-231634-1gyt",
+      "summary": {
+        "borderlandsPct": 0.047619047619047616,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260918-232715-3dlr",
       "title": "Avocado Pineapple, Sister Less",
       "commanders": [
